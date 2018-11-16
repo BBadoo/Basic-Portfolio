@@ -12,7 +12,7 @@ header {
 }
 
 body {
-    background-image:url("c:/Users/Recla/UCFVW201811FSF2/Basic-Portfolio/Images/qbkls.png")
+    background-image:url("../Images/qbkls.png")
 }
 
 .wrapper {
@@ -93,7 +93,6 @@ header {
     background-color: #ffffff;
     margin: 10px auto;
     padding: 10px;
-    /* background-image:url("c:/Users/Recla/UCFVW201811FSF2/Basic-Portfolio/Images/qbkls.png"); */
     border: solid 1px #dddddd;
     resize: none;
 }
